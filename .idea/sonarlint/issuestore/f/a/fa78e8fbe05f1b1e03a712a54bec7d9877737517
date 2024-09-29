@@ -1,0 +1,16 @@
+
+J
+java:S1172"(Remove this unused method parameter "m".(×ã¯Œúÿÿÿÿ8ŠÅøÅ˜1
+D
+java:S1172"(Remove this unused method parameter "n".(Øë»8‹ÅøÅ˜1
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(Çµí‘8‹ÅøÅ˜1
+T	java:S106"9Replace this use of System.out or System.err by a logger.(»ıãd8ŒÅøÅ˜1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ï³Íşıÿÿÿÿ8ŒÅøÅ˜1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ŒÅøÅ˜1
+X	java:S125"<This block of commented-out lines of code should be removed.(©—¬Ş8ŒÅøÅ˜1
+U	java:S106A"9Replace this use of System.out or System.err by a logger.(ÈöÄ8ŒÅøÅ˜1
+Z	java:S106D"9Replace this use of System.out or System.err by a logger.(Ï³Íşıÿÿÿÿ8ÅøÅ˜1
+Z	java:S106F"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ÅøÅ˜1
+R
+java:S1128"5Remove this unused import 'java.util.logging.Logger'.(ƒ¥óš8ÅøÅ˜1
